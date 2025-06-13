@@ -1,0 +1,4 @@
+keys:
+  mytestkey123: '测试用的 key'
+  alarmkey456: '用于服务器宕机告警'
+  notifykey789: '用于通知运营人员'
